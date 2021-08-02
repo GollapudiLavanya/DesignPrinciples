@@ -1,0 +1,13 @@
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\bin\Debug\netcoreapp3.1\DesignPrinciples.exe
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\bin\Debug\netcoreapp3.1\DesignPrinciples.deps.json
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\bin\Debug\netcoreapp3.1\DesignPrinciples.runtimeconfig.json
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\bin\Debug\netcoreapp3.1\DesignPrinciples.runtimeconfig.dev.json
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\bin\Debug\netcoreapp3.1\DesignPrinciples.dll
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\bin\Debug\netcoreapp3.1\DesignPrinciples.pdb
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\obj\Debug\netcoreapp3.1\DesignPrinciples.csproj.AssemblyReference.cache
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\obj\Debug\netcoreapp3.1\DesignPrinciples.AssemblyInfoInputs.cache
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\obj\Debug\netcoreapp3.1\DesignPrinciples.AssemblyInfo.cs
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\obj\Debug\netcoreapp3.1\DesignPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\obj\Debug\netcoreapp3.1\DesignPrinciples.dll
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\obj\Debug\netcoreapp3.1\DesignPrinciples.pdb
+C:\Users\lavanya.g\source\repos\DesignPrinciples\DesignPrinciples\obj\Debug\netcoreapp3.1\DesignPrinciples.genruntimeconfig.cache
